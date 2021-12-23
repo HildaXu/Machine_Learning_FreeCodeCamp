@@ -1,6 +1,6 @@
 # Machine_Learning_FreeCodeCamp
 
-This repository contains all my notes and projects for [Machine Learning with Python on FreeCodeCamp][1].
+This repository contains all my notes and projects for [Machine Learning with Python from FreeCodeCamp][1].
 
 ## Course Summay
 
